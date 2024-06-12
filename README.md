@@ -56,12 +56,12 @@ Estamos sempre abertos a novas colaborações e oportunidades. Sinta-se à vonta
 
 <!-- Stats -->
 <div>
-<h1> Github Stats <img height="35" alt="GIF" src="https://github.com/TI-GrupoEmtel/TI-GrupoEmtel/blob/main/images/graphic.gif?raw=true"/></h1>
+<h1> Github Stats <img height="35" alt="GIF" src="https://github.com/TI-GrupoEmtel/TIGrupoEmtel/blob/main/images/graphic.gif?raw=true"/></h1>
 </div>
 <div>
-<img alt="GitHub Details" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TI-GrupoEmtel&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="410px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TI-GrupoEmtel&theme=github_dark"/>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TI-GrupoEmtel&theme=github_dark"/>
+<img alt="GitHub Details" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TIGrupoEmtel&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="410px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TIGrupoEmtel&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TIGrupoEmtel&theme=github_dark"/>
 </div>
 
 <div>
